@@ -1,4 +1,3 @@
-#знаю, что проект слабый, но у меня было мало времени, из за учебы ничего не успеваю(((
 import telebot
 from info import help_message, about_message, N1_Text, level_1_text, answers, Answers_1, Answers_2, Answer_all, finals3, final1, final2, quest2, start_message
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
